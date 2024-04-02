@@ -15,7 +15,7 @@ Table Entries is a simple web application where users can input their informatio
 ## 🛠️ Technologies Used
 
 - **React**: Frontend library for building user interfaces.
-- **Bootstrap**: Frontend framework for developing responsive and mobile-first websites.
+- **Tailwind**: Frontend framework for developing responsive and mobile-first websites.
 - **JavaScript**: Programming language for adding interactivity to web pages.
 - **CSS**: Styling language for designing web pages.
 
